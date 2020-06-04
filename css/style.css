@@ -1,0 +1,112 @@
+/*
+***  Custom Navbar CSS
+ */
+
+.fab {
+    color: darkred !important;
+}
+
+/*
+***  Custom Index.html CSS
+ */
+
+.heroMoney h1 {
+    margin-bottom: .25em;
+    font-size: 3.66rem;
+    line-height: 1;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.heroMoney h3 {
+    margin-bottom: .25em;
+    font-size: 2.5rem;
+    line-height: 1;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+a.dangerLinkWhite {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.shortDescription {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 22px;
+    margin: 50px 0 25px 0;
+}
+
+.videoDetails {
+    margin: 0 20px 50px 20px;
+}
+
+#details {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: lighter !important;
+}
+
+#details ul {
+    list-style-type: circle;
+}
+
+/*
+***  Footer CSS
+ */
+
+.social {
+    padding: 0;
+}
+
+.social li {
+    display: inline-block;
+    font-size: 2em;
+    list-style-type: none;
+    color: darkred;
+
+}
+
+.fab {
+    color: darkred;
+}
+
+.footerMainMenu {
+    list-style-type: none;
+    padding: 0;
+}
+
+/*
+***  News.html CSS
+ */
+
+.newsPertinents h2 {
+    display: inline-block;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: lighter !important;
+    color: gray;
+    text-transform: uppercase;
+    font-size: 1rem;
+    margin-right: 15px;
+}
+
+.newsTitle {
+    color: black;
+    text-decration: none;o
+    font-size: 2rem;
+    line-height: 1.3;
+}
+
+.newsBody p {
+    color: gray;
+    font-size: 1rem;
+    margin-bottom: 1.8rem;
+}
+
+.newsBody h3 {
+    font-size: 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.newsContinue {
+    color: red;
+    margin-bottom: 1.8rem;
+}
